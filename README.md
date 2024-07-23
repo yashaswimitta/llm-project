@@ -1,5 +1,10 @@
 # llm-project
 ## Product  Recommendor & Analyzer Chatbot  (Amazon)
+### Domain
+
+This project develops a Product Recommender & Analyzer Chatbot for Amazon using advanced Large Language Models (LLMs) like GPT-4. The chatbot provides personalized product recommendations, retrieves detailed product information, and analyzes user reviews for sentiment. By integrating NLP, collaborative and content-based filtering, and sentiment analysis, it enhances the user shopping experience. The system aims to deliver a seamless, intelligent virtual assistant for e-commerce platforms.
+
+
 ### Program
 ```
 !pip install langchain
